@@ -1,1 +1,7 @@
 wordpress/*
+
+# --- macOS Specific ---
+# macOS System files
+.DS_Store
+.AppleDouble
+.LSOverride
